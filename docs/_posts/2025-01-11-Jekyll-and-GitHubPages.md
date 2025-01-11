@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GitHubPagesのJekyllを使ってみた
+title: "GitHub Pagesの Jekyll を使ってみた"
 date: YYYY-MM-DD hh:mm:ss -0000
 categories: GitHub-Pages Jekyll
 ---
