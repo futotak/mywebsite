@@ -32,7 +32,7 @@ github_username: futotak
 github: [metadata]
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 # theme: minima
 plugins:
   - jekyll-feed
