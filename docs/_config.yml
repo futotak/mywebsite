@@ -32,8 +32,9 @@ github_username: futotak
 github: [metadata]
 
 # Build settings
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
 # theme: minima
+remote_theme: pages-themes/modernist@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
